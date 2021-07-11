@@ -1,0 +1,19 @@
+Resolving Merge Conflicts (With Example) | Git Tutorials #17
+Hey everyone welcome, Today we are going to learn how to resolve merge conflicts in Git. So let’s get started. 
+
+When Merge Conflicts happen?
+When you merge branches that have competing commits, and Git cannot decide which changes to incorporate in the final merge, that's when merge conflicts happen.
+
+Resolving Conflicts:
+There are many ways to resolve conflicts on Git Merge. But we are going to use the easiest one. By using VSCode. Just Install VS Code in your system and open those files who have conflicts, and you will see 2 options: Current Change and Incoming change. Just like this.
+
+
+
+Just choose Accept Incoming change. Save the file and commit the files by typing “git add .”, and “git commit -m “message” ”. Now you have successfully merged 2 branches.
+
+
+
+ 
+
+
+ 
